@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Skills
+I'm proficient in **HTML**, **CSS**, and **JavaScript**.
+
+## Favorite books
+Some of my favorite books:
+- *Elantris*
+- *Oathbringer*
+- *Burnout: The Secret to Unlocking the Stress Cycle*
